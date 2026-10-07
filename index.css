@@ -1,0 +1,40 @@
+body {
+    background-color: #383636;
+    color: rgb(252, 250, 250);
+    font-family: arial;
+}
+
+
+.login {
+    width:300px;
+    margin:80px;
+}
+
+
+label {
+    display: block;
+    margin-top:15px;
+}
+
+
+input {
+    width:100%;
+    padding:10px;
+    margin-top:5px;
+    box-sizing: border-box;
+}
+
+
+a {
+    display:block;
+    margin-top:15px;
+    color: gray;
+    text-align:center;
+    text-decoration:none;
+}
+
+.botao {
+    background-color: purple;
+    color: white;
+    padding: 19px;
+}

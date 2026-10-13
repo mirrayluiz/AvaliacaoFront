@@ -1,6 +1,10 @@
 body {
-    background-color: #696969;
-    color: rgb(252, 250, 250);
+    background-color: #fffcfc;
+    color: rgb(12, 12, 12);
     font-family: arial;
 }
 
+.menu {
+    background-color: rgb(247, 7, 7);
+    padding: 15px;
+}
